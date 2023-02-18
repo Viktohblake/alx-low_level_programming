@@ -1,8 +1,8 @@
 #include <stdio.h>
 /**
- * main - Entry point
+ * main - Entry
  *
- * Return: Always 0
+ * Return: always 0
  *
  */
 int main(void)
@@ -10,7 +10,7 @@ int main(void)
 int a = 0;
 
 for (; a < 10 ; a++)
-printf("%d", a);
+putchar('0' + a);
 putchar('\n');
 return (0);
 }

@@ -14,7 +14,7 @@ int base;
 for (base = 0; base < 10; base++)
 {
 putchar(a);
- a++;
+a++;
 }
 a = '1';
 for (base = 0; base < 6; base++)

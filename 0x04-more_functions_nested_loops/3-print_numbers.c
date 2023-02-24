@@ -1,9 +1,8 @@
-#include "holberton.h"
-#include <stdio.h>
+#include "main.h"
 
 /**
-* print_numbers - function that print numbers from 0 - 9
-*/
+ * print_numbers - function that print numbers from 0 - 9
+ */
 int print_numbers(void)
 {
 char c;

@@ -1,8 +1,9 @@
+#include "holberton.h"
 #include <stdio.h>
 /**
- * main - Entry
- *
- * Return: gives 1 or 0
+ * _isupper - checks for uppercase character
+ * @c: Variable text
+ * Return: Always 0
  */
 int _isupper(int c)
 {
